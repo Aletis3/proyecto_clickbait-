@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="385b6aa8-69c8-428e-9009-315045c97405" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/proyecto__nuevo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acciones/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acciones/cargar_imagen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acciones/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisis_gemini/keys/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisis_gemini/keys/api_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisis_manual/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisis_manual/cargar_archivo_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisis_manual/evaluacion_manual_gemini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaz_grafica/visualizacion_uno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procesamiento_de_imagenes/arreglo_de_imagenes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procesamiento_de_imagenes/tesseract_configuracion.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34jzdRN3DmgF8Aigv9nkaDudBW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.evaluacion_manual_gemini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualizacion_uno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualizazion_dos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alejandra/Desktop/Programas/proyecto__nuevo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alejandra\Desktop\Programas\proyecto__nuevo\analisis_manual" />
+      <recent name="C:\Users\Alejandra\Desktop\Programas\proyecto__nuevo\analisis_gemini" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="visualizacion_uno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyecto__nuevo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaz_grafica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alejandra\Desktop\Programas\proyecto__nuevo\interfaz_grafica\visualizacion_uno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.visualizacion_uno" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385b6aa8-69c8-428e-9009-315045c97405" name="Changes" comment="" />
+      <created>1761741855327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761741855327</updated>
+      <workItem from="1761741856386" duration="2974000" />
+      <workItem from="1761775945496" duration="11516000" />
+      <workItem from="1761867279579" duration="7402000" />
+      <workItem from="1761878945221" duration="1001000" />
+      <workItem from="1761906140961" duration="9037000" />
+      <workItem from="1761952823922" duration="16953000" />
+      <workItem from="1761997361695" duration="11766000" />
+      <workItem from="1762088076581" duration="9927000" />
+      <workItem from="1762115255810" duration="460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proyecto__nuevo$visualizazion_dos.coverage" NAME="visualizacion_uno Coverage Results" MODIFIED="1761972751881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaz_grafica" />
+    <SUITE FILE_PATH="coverage/proyecto__nuevo$visualizacion_uno.coverage" NAME="visualizacion_uno Coverage Results" MODIFIED="1762115678248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaz_grafica" />
+    <SUITE FILE_PATH="coverage/proyecto__nuevo$evaluacion_manual_gemini.coverage" NAME="evaluacion_manual_gemini Coverage Results" MODIFIED="1761743187096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analisis_manual" />
+  </component>
+</project>
