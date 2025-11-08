@@ -1,5 +1,5 @@
 # proyecto_clickbait
-Proyecto Integrador
+Análisis de titulares Clickbait - Proyecto Integrador
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aletis3/proyecto_clickbait-/main/images/foto_banner.png" width="1000"/>
 </p>
