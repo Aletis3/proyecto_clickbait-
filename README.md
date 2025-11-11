@@ -3,6 +3,7 @@ Análisis de titulares Clickbait - Proyecto Integrador
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aletis3/proyecto_clickbait-/main/images/foto_banner.png" width="1000"/>
 </p>
+
 ## Descripción
 
 Este proyecto fue desarrollado en el marco de las asignaturas **Proyecto Integrador** y **Técnicas de Procesamiento de Imágenes**.  
