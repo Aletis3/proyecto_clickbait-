@@ -13,6 +13,9 @@ Su propósito es analizar titulares de noticias y detectar posibles característ
 - **Análisis con IA**, utilizando el modelo **Gemini** de Google Generative AI.  
 
 El sistema está programado en **Python** y cuenta con una **interfaz gráfica (Tkinter)** que facilita la interacción con los usuarios.
+Además, incluye un módulo de **procesamiento de imágenes** que permite analizar titulares presentes en capturas o fotografías de noticias.  
+Mediante las librerías **OpenCV** y **Pytesseract**, el sistema realiza un reconocimiento óptico de caracteres (OCR) para extraer el texto y evaluarlo con los mismos criterios del análisis manual y de IA.
+
 
 **Estructura de la carpeta de entrega:**  
 - `proyecto_integrador/` → Contiene el código principal del sistema. Incluye los módulos de análisis, procesamiento de imágenes y la interfaz gráfica.  
