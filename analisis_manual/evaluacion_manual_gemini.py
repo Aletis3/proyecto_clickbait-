@@ -66,7 +66,7 @@ def analisis_manual(titular: str):
 # FUNCIÓN ANALISIS IA - RESPUESTAS
 # ====================================================================
 
-def analizar_titular_json(titular: str) -> str:
+def analizar_titular_json(titular: str):
     """
     Analiza un titular de noticia usando análisis manual y la IA de Gemini,
     y devuelve un resultado en formato JSON.
@@ -111,7 +111,7 @@ Titular: "{titular}"
         # Realiza el análisis manual del titular.
         # Nos devuelve una tupla: resultado y puntaje, pero el resultado se ignora.
         # Usa "_" para ignorar el puntaje.
-        resultado_manual, _ = analisis_manual(titular)
+        resultado_manual, _ = analisis_manual(titular) # Ignora el puntaje númerico con ' _'
 
 
         # extre el texto de la respuesta devuelta por Gemini

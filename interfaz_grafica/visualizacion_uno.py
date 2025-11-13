@@ -16,7 +16,7 @@ ventana_principal = tk.Tk()  # crea la ventana principal de la aplicación
 ventana_principal.title("Proyecto Integrador - Alejandra Palomino")  # título de la ventana
 ventana_principal.geometry("1050x480")       # tamaño fijo de la ventana (ancho x alto en píxeles)
 ventana_principal.configure(bg="#F0F0F0")    # color de fondo gris claro
-#ventana_principal.resizable(False, False)    # no permite cambiar el tamaño de la ventana
+ventana_principal.resizable(False, False)    # no permite cambiar el tamaño de la ventana
 
 # TÍTULO
 titulo = tk.Label(
@@ -121,7 +121,7 @@ tabla.column("Coincidencia", width=90, anchor="center")
 
 # posicionar
 tabla.grid(row=0, column=0, sticky="nsew")
-#scroll_y.grid(row=0, column=1, sticky="ns")
+
 scroll_x.grid(row=1, column=0, sticky="ew")
 
 # Coloca la tabla en la fila 0 y columna 0,
@@ -130,7 +130,7 @@ tabla.grid(row=0, column=0, sticky="nsew")
 
 # Coloca la barra de desplazamiento horizontal
 scroll_y.grid(row=0, column=1, sticky="ns")
-#scroll_x.grid(row=1, column=0, sticky="ew")
+
 
 # Configura colores para las filas según la etiqueta (tags)
 tabla.tag_configure("coincide", background="lightgreen")    # Coincidencia Verdadero -> verde
@@ -169,7 +169,7 @@ def analizar_y_guardar():
     resultado = {
         "Titular": valores[0],
         "Análisis Manual": valores[1],
-        "Análisis Ai": valores[2],
+        "Análisis IA": valores[2],
         "Coincidencia": valores[3]
     }
     # verifica de que exista la carpeta de resultados JSON

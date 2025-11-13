@@ -1252,5 +1252,35 @@
     "Análisis Manual": "Confiable",
     "Análisis Ai": "Dudoso Clickbait",
     "Coincidencia": "Falso"
+  },
+  {
+    "Titular": "¡Último momento! Científicos confirman que el chocolate cura la depresión",
+    "Análisis Manual": "Confiable",
+    "Análisis Ai": "Dudoso Clickbait",
+    "Coincidencia": "Falso"
+  },
+  {
+    "Titular": "Este truco te hará rico en 3 días, según expertos",
+    "Análisis Manual": "Clickbait",
+    "Análisis Ai": "Dudoso Clickbait",
+    "Coincidencia": "Verdadero"
+  },
+  {
+    "Titular": "El gobierno planea eliminar el uso de efectivo en todo el país",
+    "Análisis Manual": "Confiable",
+    "Análisis Ai": "Confiable",
+    "Coincidencia": "Verdadero"
+  },
+  {
+    "Titular": "Estudio revela que mirar memes aumenta la inteligencia",
+    "Análisis Manual": "Confiable",
+    "Análisis Ai": "Confiable",
+    "Coincidencia": "Verdadero"
+  },
+  {
+    "Titular": "Confirmado: tomar agua con limón en ayunas elimina todas las toxinas",
+    "Análisis Manual": "Confiable",
+    "Análisis Ai": "Dudoso Clickbait",
+    "Coincidencia": "Falso"
   }
 ]

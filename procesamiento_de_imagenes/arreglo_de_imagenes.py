@@ -3,7 +3,7 @@
 # ======================================================================
 import cv2
 import numpy as np
-#import matplotlib.pyplot as plt
+
 
 def mostrar_imagen(imagen_preparada):
     """Muestra la imagen preprocesada en una ventana separada (no en PyCharm)."""
@@ -18,15 +18,6 @@ def mostrar_imagen(imagen_preparada):
     cv2.imshow("Imagen preprocesada para OCR", imagen_pequena)
     cv2.waitKey(0)  # Espera a que pulses una tecla
     cv2.destroyAllWindows()  # Cierra la ventana
-
-
-    # # Muestra la imagen preprocesada en una ventana.
-    # # Convertir de BGR (OpenCV) a RGB (matplotlib)
-    # img_rgb = cv2.cvtColor(imagen_preparada, cv2.COLOR_GRAY2RGB)
-    # plt.imshow(img_rgb)
-    # plt.axis('off')
-    # plt.title("Imagen preprocesada para OCR")
-    # plt.show()
 
 
 def preparar_imagen (ruta_imagen):

@@ -5,11 +5,11 @@
 import pytesseract
 
 
-def leer_texto(imagen_preparada): #de donde sale esta imagen_preparada?
+def leer_texto(imagen_preparada):
     if imagen_preparada is None:
         return ""
 
-    # oem 3 --> la red neuronal encargada de reconocer los caracteres (es la mas moderna)
+    # oem 3 --> la red neuronal encargada de reconocer los caracteres
     # psm 6 --> page segmentation mode -->como segmenta el texto  (4 varios parrafos // 7 para una sola linea)
     # preservar los espacios correctos de la imagen
     # agregar caracteres a la lista de permitidos
@@ -24,7 +24,7 @@ def leer_texto(imagen_preparada): #de donde sale esta imagen_preparada?
         # elimina espacios sobrantes, saltos de línea y tabulaciones, dejando solo un espacio entre palabras
         texto_limpio = " ".join(texto.split())
         # devuelve el texto sin espacios al inicio ni al final
-        return  texto_limpio          #texto.strip()
+        return  texto_limpio
 
     except Exception as e:
         # si ocurre un error durante la extracción de texto,

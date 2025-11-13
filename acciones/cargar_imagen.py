@@ -25,7 +25,7 @@ def cargar_y_analizar_imagen(entrada_texto_usuario, tabla):
 
     try:
         # preprocesa la imagen para mejorar la calidad
-        imagen_procesada = preparar_imagen(ruta)
+        imagen_procesada = preparar_imagen(ruta) # función en arreglo_de_imagenes
 
         # muestra mensaje informativo al usuario
         messagebox.showinfo(
@@ -37,7 +37,7 @@ def cargar_y_analizar_imagen(entrada_texto_usuario, tabla):
         mostrar_imagen(imagen_procesada)
 
         # extrae texto de la imagen
-        texto_extraido = leer_texto(imagen_procesada)
+        texto_extraido = leer_texto(imagen_procesada) # tesseract_configuracion
 
         # si no se detecta texti, avisa al ususario y termina
         if not texto_extraido:
