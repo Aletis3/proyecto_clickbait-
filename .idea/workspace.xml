@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="385b6aa8-69c8-428e-9009-315045c97405" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acciones/cargar_imagen.py" beforeDir="false" afterPath="$PROJECT_DIR$/acciones/cargar_imagen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analisis_manual/evaluacion_manual_gemini.py" beforeDir="false" afterPath="$PROJECT_DIR$/analisis_manual/evaluacion_manual_gemini.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interfaz_grafica/resultados_json/resultados.json" beforeDir="false" afterPath="$PROJECT_DIR$/interfaz_grafica/resultados_json/resultados.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaz_grafica/visualizacion_uno.py" beforeDir="false" afterPath="$PROJECT_DIR$/interfaz_grafica/visualizacion_uno.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procesamiento_de_imagenes/arreglo_de_imagenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/procesamiento_de_imagenes/arreglo_de_imagenes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procesamiento_de_imagenes/tesseract_configuracion.py" beforeDir="false" afterPath="$PROJECT_DIR$/procesamiento_de_imagenes/tesseract_configuracion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +25,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.visualizacion_uno.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.visualizacion_uno.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="visualizacion_uno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="proyecto__nuevo" />
@@ -94,7 +89,9 @@
       <workItem from="1761741856386" duration="1000" />
       <workItem from="1762946802630" duration="18258000" />
       <workItem from="1762981912880" duration="6406000" />
-      <workItem from="1763028505609" duration="3001000" />
+      <workItem from="1763028505609" duration="6012000" />
+      <workItem from="1763070539909" duration="2384000" />
+      <workItem from="1763255996744" duration="377000" />
     </task>
     <servers />
   </component>
@@ -102,6 +99,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/proyecto_integrador$visualizacion_uno.coverage" NAME="visualizacion_uno Coverage Results" MODIFIED="1763028505624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaz_grafica" />
+    <SUITE FILE_PATH="coverage/proyecto_integrador$visualizacion_uno.coverage" NAME="visualizacion_uno Coverage Results" MODIFIED="1763072792233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaz_grafica" />
   </component>
 </project>

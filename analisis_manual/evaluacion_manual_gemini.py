@@ -18,7 +18,7 @@ def mostrar_cartel_espera(mensaje="Analizando..."):
     return ventana_espera
 
 def analisis_manual(titular: str):
-    # crea cartel de espera
+    # crea cartel de espera mientras se realiza el análisis
     ventana_espera = mostrar_cartel_espera()
     # define listas con palabras y números típicos del clickbait
     palabras_clickbait = ["último momento", "confirmado", "increíble", "te hará rico",
